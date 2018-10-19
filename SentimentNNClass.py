@@ -112,7 +112,7 @@ class SentimentNetwork:
 
         # Store the learning rate
         self.learning_rate = learning_rate
-
+        
         # Initialize weights
 
         # TODO: initialize self.weights_0_1 as a matrix of zeros. These are the weights between
