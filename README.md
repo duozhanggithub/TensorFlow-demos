@@ -1,2 +1,2 @@
 # deep-learning-demos
-demos for different deep learning models, adapted from Udacity's deep learing nano degree
+Tensorflow demos for different deep learning models, mostly adapted from Udacity's deep learing nano degree
