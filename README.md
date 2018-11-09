@@ -1,2 +1,2 @@
 # deep-learning-demos
-Tensorflow demos for different deep learning models, mostly adapted from Udacity's deep learing nano degree, keep updating
+Tensorflow demos for different deep learning models, CNN, RNN, GANs... continually updating
